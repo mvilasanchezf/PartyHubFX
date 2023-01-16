@@ -1,0 +1,21 @@
+.surface-0 {
+    -fx-background-color: rgba(3, 255, 74, 0.72);
+}
+
+.button {
+    -fx-alignment: center;
+    -fx-background-color: #ff0000;
+}
+
+.label{
+    color: #000000;
+}
+
+.table-view {
+    -fx-background-color: #fdcf1c;
+    -fx-text-fill: #fa691b;
+}
+
+.table-view {
+    -fx-background-color: #7aa2f7;
+}
